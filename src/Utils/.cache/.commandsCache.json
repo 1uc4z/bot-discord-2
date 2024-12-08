@@ -1,0 +1,6 @@
+{
+  "localCommandsCache": {},
+  "globalCommandsCache": {
+    "set": "{\n  \"name\": \"set\",\n  \"description\": \"[Moderação] Comando privado apenas para o administradores do servidor.\",\n  \"options\": [\n    {\n      \"type\": 1,\n      \"name\": \"botão\",\n      \"description\": \"[Moderação] Comando privado apenas para o administradores do servidor.\",\n      \"options\": [\n        {\n          \"channel_types\": [\n            0\n          ],\n          \"name\": \"channel\",\n          \"description\": \"[Channel] Qual canal o botão sera enviado?\",\n          \"required\": false,\n          \"type\": 7\n        }\n      ]\n    },\n    {\n      \"type\": 1,\n      \"name\": \"pasta\",\n      \"description\": \"[Moderação] Comando privado apenas para o administradores do servidor.\",\n      \"options\": [\n        {\n          \"channel_types\": [\n            0\n          ],\n          \"name\": \"channel\",\n          \"description\": \"[Channel] Qual canal a pasta será enviada?\",\n          \"required\": false,\n          \"type\": 7\n        }\n      ]\n    }\n  ],\n  \"onlyDevs\": false,\n  \"deferReply\": false,\n  \"emoji\": {}\n}"
+  }
+}
